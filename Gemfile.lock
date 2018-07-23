@@ -5,7 +5,7 @@ GEM
     foodcritic (4.0.0)
       erubis
       gherkin (~> 2.11)
-      nokogiri (~> 1.5)
+      nokogiri (~> 1.8.1)
       rake
       rufus-lru (~> 1.0)
       treetop (~> 1.4)
